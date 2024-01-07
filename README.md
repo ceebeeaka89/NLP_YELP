@@ -2,8 +2,8 @@
 by Chris Adu
 
 # Background
-YELP is one of the leading sources of user generated reviews for businesses globally. The ratings are given between one and five stars and users also have the opportunity to write text review.Other users are rate the reviews  'cool' , 'useful' and 'funny'.
-I am attempting to categories reviews from the website into one star or five star ratings based on the text reviews using natural language processing techniques. 
+YELP is one of the leading sources of user generated reviews for businesses globally. The ratings are given between one and five stars and users also can write text reviews. Other users can rate the reviews 'cool', 'useful' and 'funny'. I am attempting to categories reviews from the website focusing on one-star or five-star ratings based on the key features using natural language processing techniques.
+ 
 
 # Exploratory Data Analysis
 I plotted a Facetgrid to visualise the star ratings and text length. It shows the distributions of text length is the same across all the star ratings , however there is a higher amount of text reviews skewed towards four and five star ratings.
